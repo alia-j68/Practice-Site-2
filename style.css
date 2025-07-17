@@ -1,0 +1,25 @@
+html {
+  background-color: paleturquoise;
+}
+
+header {
+  background-color: mediumturquoise;
+  border: 6px solid midnightblue;
+  font-family: Garamond;
+  padding-left: 30px;
+  
+}
+
+nav {
+  grid-row:
+}
+
+figcaption {
+  font-family: Garamond;
+  font-size: 15px
+}
+
+p {
+  font-family: Garamond;
+  font-size: 18px
+}
