@@ -11,7 +11,12 @@ header {
 }
 
 nav {
-  grid-row:
+  font-family: Garamond;
+  padding: 60px;
+}
+
+#Home a {
+    /
 }
 
 figcaption {
@@ -21,5 +26,5 @@ figcaption {
 
 p {
   font-family: Garamond;
-  font-size: 18px
+  font-size: 18px;
 }
